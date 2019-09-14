@@ -1,0 +1,19 @@
+{
+  "name": "per-note",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexschu90/Per-Note.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexschu90/Per-Note/issues"
+  },
+  "homepage": "https://github.com/alexschu90/Per-Note#readme"
+}
