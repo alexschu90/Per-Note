@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alexschu90/Per-Note/issues"
   },
-  "homepage": "https://github.com/alexschu90/Per-Note#readme"
+  "homepage": "https://github.com/alexschu90/Per-Note#readme",
+  "dependencies": {
+    "nodemon": "^1.19.2"
+  }
 }
